@@ -55,7 +55,7 @@ This project was inspired by a passion for retro games, Pokémon, and the joy of
 This project is released under the MIT License.
 
 ---
-## Author## 👨‍💻 Autor
+## 👨‍💻 Author
 Gustavo Liniker  
 📧 Contact:  liniker.gu@hotmail.com  
 💡 “Sometimes, the simplest games are the ones that remind us why we fell in love with coding.”
